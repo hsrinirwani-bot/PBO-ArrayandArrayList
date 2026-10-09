@@ -61,26 +61,7 @@ Hasil yang diharapkan dari program berdasarkan kode latihan:
 - `BankTest.java` menampilkan tiga customer beserta saldo akhirnya.
 - `BankAccountArrayBeraksi.java` menampilkan ukuran daftar `3`, nomor account pertama `1008`, dan nomor account terakhir `1729`.
 
-## Screenshot Hasil Running
 
-Jalankan program di komputer dan ambil screenshot hasil yang sebenarnya. Simpan gambar di folder `screenshots/`, dengan nama:
-
-- `screenshots/CountryCapital.png`
-- `screenshots/BankTest.png`
-- `screenshots/BankAccountArrayBeraksi.png`
-
-Setelah gambar diunggah, tambahkan tampilan screenshot berikut ke README (pastikan nama file sama):
-
-```markdown
-### CountryCapital
-![Hasil running CountryCapital](screenshots/CountryCapital.png)
-
-### BankTest
-![Hasil running BankTest](screenshots/BankTest.png)
-
-### BankAccountArrayBeraksi
-![Hasil running BankAccountArrayBeraksi](screenshots/BankAccountArrayBeraksi.png)
-```
 
 ## Library Tambahan
 
