@@ -2,7 +2,7 @@
 
 **Mata Kuliah:** Pemrograman Berorientasi Objek (PBO)  
 **Kelas:** 3B  
-**Nama:** Muhammad Abimayu Tantowi  
+**Nama:**Jihadul Muhajirin Ahmad  
 **Tahun:** 2026
 
 ## Deskripsi
